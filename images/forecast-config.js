@@ -1,0 +1,1347 @@
+// Generated with the PNGs. Upload to the GitHub images folder.
+window.SEASONAL_FORECAST_CONFIG = {
+  "run": "202610",
+  "leads": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "revision": "2026-10-10T12:42:44.300047+00:00",
+  "files": {
+    "AVERAGE_MSLP_LT1_October_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "NCEP",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_MSLP_LT2_November_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "NCEP",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_MSLP_LT3_December_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "NCEP",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_MSLP_LT4_January_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "NCEP",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_MSLP_LT5_February_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "NCEP",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_MSLP_LT6_March_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "NCEP",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_SND_LT1_October_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_SND_LT2_November_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_SND_LT3_December_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_SND_LT4_January_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_SND_LT5_February_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_SND_LT6_March_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_Snowfall-Precipitation_LT1_October_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_Snowfall-Precipitation_LT2_November_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_Snowfall-Precipitation_LT3_December_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_Snowfall-Precipitation_LT4_January_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_Snowfall-Precipitation_LT5_February_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_Snowfall-Precipitation_LT6_March_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_T2m_LT1_October_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "NCEP",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_T2m_LT2_November_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "NCEP",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_T2m_LT3_December_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "NCEP",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_T2m_LT4_January_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "NCEP",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_T2m_LT5_February_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "NCEP",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_T2m_LT6_March_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "NCEP",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_Z500_LT1_October_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "NCEP",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_Z500_LT2_November_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "NCEP",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_Z500_LT3_December_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "NCEP",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_Z500_LT4_January_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "NCEP",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_Z500_LT5_February_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "NCEP",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_Z500_LT6_March_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "NCEP",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_mm_LT1_October_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "NCEP",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_mm_LT2_November_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "NCEP",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_mm_LT3_December_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "NCEP",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_mm_LT4_January_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "NCEP",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_mm_LT5_February_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "NCEP",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "AVERAGE_mm_LT6_March_202610.png": {
+      "contributing_centres": [
+        "ECMWF",
+        "UKMO",
+        "NCEP",
+        "METEO_FRANCE",
+        "DWD",
+        "ECCC"
+      ]
+    },
+    "DWD_MSLP_LT1_October_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_MSLP_LT2_November_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_MSLP_LT3_December_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_MSLP_LT4_January_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_MSLP_LT5_February_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_MSLP_LT6_March_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_SND_LT1_October_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_SND_LT2_November_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_SND_LT3_December_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_SND_LT4_January_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_SND_LT5_February_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_SND_LT6_March_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_Snowfall-Precipitation_LT1_October_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_Snowfall-Precipitation_LT2_November_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_Snowfall-Precipitation_LT3_December_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_Snowfall-Precipitation_LT4_January_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_Snowfall-Precipitation_LT5_February_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_Snowfall-Precipitation_LT6_March_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_T2m_LT1_October_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_T2m_LT2_November_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_T2m_LT3_December_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_T2m_LT4_January_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_T2m_LT5_February_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_T2m_LT6_March_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_Z500_LT1_October_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_Z500_LT2_November_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_Z500_LT3_December_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_Z500_LT4_January_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_Z500_LT5_February_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_Z500_LT6_March_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_mm_LT1_October_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_mm_LT2_November_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_mm_LT3_December_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_mm_LT4_January_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_mm_LT5_February_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "DWD_mm_LT6_March_202610.png": {
+      "contributing_centres": [
+        "DWD"
+      ]
+    },
+    "ECCC_MSLP_LT1_October_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_MSLP_LT2_November_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_MSLP_LT3_December_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_MSLP_LT4_January_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_MSLP_LT5_February_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_MSLP_LT6_March_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_SND_LT1_October_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_SND_LT2_November_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_SND_LT3_December_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_SND_LT4_January_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_SND_LT5_February_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_SND_LT6_March_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_Snowfall-Precipitation_LT1_October_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_Snowfall-Precipitation_LT2_November_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_Snowfall-Precipitation_LT3_December_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_Snowfall-Precipitation_LT4_January_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_Snowfall-Precipitation_LT5_February_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_Snowfall-Precipitation_LT6_March_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_T2m_LT1_October_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_T2m_LT2_November_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_T2m_LT3_December_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_T2m_LT4_January_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_T2m_LT5_February_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_T2m_LT6_March_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_Z500_LT1_October_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_Z500_LT2_November_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_Z500_LT3_December_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_Z500_LT4_January_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_Z500_LT5_February_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_Z500_LT6_March_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_mm_LT1_October_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_mm_LT2_November_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_mm_LT3_December_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_mm_LT4_January_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_mm_LT5_February_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECCC_mm_LT6_March_202610.png": {
+      "contributing_centres": [
+        "ECCC"
+      ]
+    },
+    "ECMWF_MSLP_LT1_October_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_MSLP_LT2_November_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_MSLP_LT3_December_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_MSLP_LT4_January_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_MSLP_LT5_February_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_MSLP_LT6_March_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_SND_LT1_October_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_SND_LT2_November_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_SND_LT3_December_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_SND_LT4_January_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_SND_LT5_February_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_SND_LT6_March_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_Snowfall-Precipitation_LT1_October_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_Snowfall-Precipitation_LT2_November_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_Snowfall-Precipitation_LT3_December_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_Snowfall-Precipitation_LT4_January_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_Snowfall-Precipitation_LT5_February_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_Snowfall-Precipitation_LT6_March_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_T2m_LT1_October_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_T2m_LT2_November_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_T2m_LT3_December_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_T2m_LT4_January_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_T2m_LT5_February_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_T2m_LT6_March_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_Z500_LT1_October_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_Z500_LT2_November_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_Z500_LT3_December_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_Z500_LT4_January_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_Z500_LT5_February_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_Z500_LT6_March_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_mm_LT1_October_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_mm_LT2_November_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_mm_LT3_December_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_mm_LT4_January_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_mm_LT5_February_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "ECMWF_mm_LT6_March_202610.png": {
+      "contributing_centres": [
+        "ECMWF"
+      ]
+    },
+    "METEO_FRANCE_MSLP_LT1_October_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_MSLP_LT2_November_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_MSLP_LT3_December_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_MSLP_LT4_January_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_MSLP_LT5_February_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_MSLP_LT6_March_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_SND_LT1_October_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_SND_LT2_November_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_SND_LT3_December_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_SND_LT4_January_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_SND_LT5_February_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_SND_LT6_March_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_Snowfall-Precipitation_LT1_October_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_Snowfall-Precipitation_LT2_November_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_Snowfall-Precipitation_LT3_December_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_Snowfall-Precipitation_LT4_January_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_Snowfall-Precipitation_LT5_February_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_Snowfall-Precipitation_LT6_March_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_T2m_LT1_October_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_T2m_LT2_November_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_T2m_LT3_December_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_T2m_LT4_January_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_T2m_LT5_February_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_T2m_LT6_March_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_Z500_LT1_October_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_Z500_LT2_November_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_Z500_LT3_December_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_Z500_LT4_January_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_Z500_LT5_February_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_Z500_LT6_March_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_mm_LT1_October_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_mm_LT2_November_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_mm_LT3_December_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_mm_LT4_January_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_mm_LT5_February_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "METEO_FRANCE_mm_LT6_March_202610.png": {
+      "contributing_centres": [
+        "METEO_FRANCE"
+      ]
+    },
+    "NCEP_MSLP_LT1_October_202610.png": {
+      "contributing_centres": [
+        "NCEP"
+      ]
+    },
+    "NCEP_MSLP_LT2_November_202610.png": {
+      "contributing_centres": [
+        "NCEP"
+      ]
+    },
+    "NCEP_MSLP_LT3_December_202610.png": {
+      "contributing_centres": [
+        "NCEP"
+      ]
+    },
+    "NCEP_MSLP_LT4_January_202610.png": {
+      "contributing_centres": [
+        "NCEP"
+      ]
+    },
+    "NCEP_MSLP_LT5_February_202610.png": {
+      "contributing_centres": [
+        "NCEP"
+      ]
+    },
+    "NCEP_MSLP_LT6_March_202610.png": {
+      "contributing_centres": [
+        "NCEP"
+      ]
+    },
+    "NCEP_T2m_LT1_October_202610.png": {
+      "contributing_centres": [
+        "NCEP"
+      ]
+    },
+    "NCEP_T2m_LT2_November_202610.png": {
+      "contributing_centres": [
+        "NCEP"
+      ]
+    },
+    "NCEP_T2m_LT3_December_202610.png": {
+      "contributing_centres": [
+        "NCEP"
+      ]
+    },
+    "NCEP_T2m_LT4_January_202610.png": {
+      "contributing_centres": [
+        "NCEP"
+      ]
+    },
+    "NCEP_T2m_LT5_February_202610.png": {
+      "contributing_centres": [
+        "NCEP"
+      ]
+    },
+    "NCEP_T2m_LT6_March_202610.png": {
+      "contributing_centres": [
+        "NCEP"
+      ]
+    },
+    "NCEP_Z500_LT1_October_202610.png": {
+      "contributing_centres": [
+        "NCEP"
+      ]
+    },
+    "NCEP_Z500_LT2_November_202610.png": {
+      "contributing_centres": [
+        "NCEP"
+      ]
+    },
+    "NCEP_Z500_LT3_December_202610.png": {
+      "contributing_centres": [
+        "NCEP"
+      ]
+    },
+    "NCEP_Z500_LT4_January_202610.png": {
+      "contributing_centres": [
+        "NCEP"
+      ]
+    },
+    "NCEP_Z500_LT5_February_202610.png": {
+      "contributing_centres": [
+        "NCEP"
+      ]
+    },
+    "NCEP_Z500_LT6_March_202610.png": {
+      "contributing_centres": [
+        "NCEP"
+      ]
+    },
+    "NCEP_mm_LT1_October_202610.png": {
+      "contributing_centres": [
+        "NCEP"
+      ]
+    },
+    "NCEP_mm_LT2_November_202610.png": {
+      "contributing_centres": [
+        "NCEP"
+      ]
+    },
+    "NCEP_mm_LT3_December_202610.png": {
+      "contributing_centres": [
+        "NCEP"
+      ]
+    },
+    "NCEP_mm_LT4_January_202610.png": {
+      "contributing_centres": [
+        "NCEP"
+      ]
+    },
+    "NCEP_mm_LT5_February_202610.png": {
+      "contributing_centres": [
+        "NCEP"
+      ]
+    },
+    "NCEP_mm_LT6_March_202610.png": {
+      "contributing_centres": [
+        "NCEP"
+      ]
+    },
+    "UKMO_MSLP_LT1_October_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    },
+    "UKMO_MSLP_LT2_November_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    },
+    "UKMO_MSLP_LT3_December_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    },
+    "UKMO_MSLP_LT4_January_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    },
+    "UKMO_MSLP_LT5_February_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    },
+    "UKMO_MSLP_LT6_March_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    },
+    "UKMO_Snowfall-Precipitation_LT1_October_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    },
+    "UKMO_Snowfall-Precipitation_LT2_November_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    },
+    "UKMO_Snowfall-Precipitation_LT3_December_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    },
+    "UKMO_Snowfall-Precipitation_LT4_January_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    },
+    "UKMO_Snowfall-Precipitation_LT5_February_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    },
+    "UKMO_Snowfall-Precipitation_LT6_March_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    },
+    "UKMO_T2m_LT1_October_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    },
+    "UKMO_T2m_LT2_November_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    },
+    "UKMO_T2m_LT3_December_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    },
+    "UKMO_T2m_LT4_January_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    },
+    "UKMO_T2m_LT5_February_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    },
+    "UKMO_T2m_LT6_March_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    },
+    "UKMO_Z500_LT1_October_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    },
+    "UKMO_Z500_LT2_November_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    },
+    "UKMO_Z500_LT3_December_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    },
+    "UKMO_Z500_LT4_January_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    },
+    "UKMO_Z500_LT5_February_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    },
+    "UKMO_Z500_LT6_March_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    },
+    "UKMO_mm_LT1_October_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    },
+    "UKMO_mm_LT2_November_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    },
+    "UKMO_mm_LT3_December_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    },
+    "UKMO_mm_LT4_January_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    },
+    "UKMO_mm_LT5_February_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    },
+    "UKMO_mm_LT6_March_202610.png": {
+      "contributing_centres": [
+        "UKMO"
+      ]
+    }
+  }
+};
